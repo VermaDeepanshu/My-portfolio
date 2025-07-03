@@ -49,14 +49,14 @@ const Contact = () => {
     {
       icon: <FaEnvelope />,
       title: 'Email',
-      value: 'deepanshubohra@gmail.com',
-      link: 'mailto:deepanshubohra@gmail.com'
+      value: 'deepanshuabohar@gmail.com',
+      link: 'mailto:deepanshuabohar@gmail.com'
     },
     {
       icon: <FaPhone />,
       title: 'Phone',
-      value: '+91 6281554403',
-      link: 'tel:+916281554403'
+      value: '+91 6284554403',
+      link: 'tel:+916284554403'
     },
     {
       icon: <FaMapMarkerAlt />,
@@ -70,13 +70,13 @@ const Contact = () => {
     {
       icon: <FaLinkedin />,
       name: 'LinkedIn',
-      url: 'https://linkedin.com/in/Deepanshu',
+      url: 'https://www.linkedin.com/in/deepanshu-verma-7394b2274/',
       color: '#0077B5'
     },
     {
       icon: <FaGithub />,
       name: 'GitHub',
-      url: 'https://github.com/Deepanshu',
+      url: 'https://github.com/VermaDeepanshu?tab=repositories',
       color: '#333'
     },
     {

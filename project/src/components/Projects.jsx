@@ -14,8 +14,8 @@ const Projects = () => {
       description: "A dynamic full-stack platform for Bluestocks startup that introduces the company and highlights its role in financial markets. Built with MERN stack for seamless user experience.",
       image: "https://images.pexels.com/photos/590020/pexels-photo-590020.jpeg?auto=compress&cs=tinysrgb&w=800",
       technologies: ["JavaScript", "Node.js", "Express.js", "MongoDB", "TailwindCSS"],
-      github: "https://github.com/Deepanshu",
-      live: "https://github.com/Deepanshu",
+      github: "https://github.com/VermaDeepanshu?tab=repositories",
+      live: "https://github.com/VermaDeepanshu?tab=repositories",
       featured: true,
       status: "Live Demo"
     },
@@ -24,8 +24,8 @@ const Projects = () => {
       description: "HackMol 5.0 First Runner-up project: A real-time train booking alert system using Railway APIs. Built full-stack solution with email notifications for seat availability.",
       image: "https://images.pexels.com/photos/544966/pexels-photo-544966.jpeg?auto=compress&cs=tinysrgb&w=800",
       technologies: ["JavaScript", "Node.js", "Express.js", "MongoDB", "Railway APIs"],
-      github: "https://github.com/Deepanshu",
-      live: "https://github.com/Deepanshu",
+      github: "https://github.com/VermaDeepanshu?tab=repositories",
+      live: "https://github.com/VermaDeepanshu?tab=repositories",
       featured: true,
       status: "Winner - HackMol 5.0"
     },
@@ -34,8 +34,8 @@ const Projects = () => {
       description: "A comprehensive job portal enabling users to browse, post, and apply through a seamless interface. Integrated ClerkAuth for secure authentication and role-based dashboards.",
       image: "https://images.pexels.com/photos/4386466/pexels-photo-4386466.jpeg?auto=compress&cs=tinysrgb&w=800",
       technologies: ["React.js", "Node.js", "Express.js", "ClerkAuth", "TailwindCSS"],
-      github: "https://github.com/Deepanshu",
-      live: "https://github.com/Deepanshu",
+      github: "https://github.com/VermaDeepanshu?tab=repositories",
+      live: "https://github.com/VermaDeepanshu?tab=repositories",
       featured: true,
       status: "In Development"
     }
@@ -168,7 +168,7 @@ const Projects = () => {
             <h3>Want to see more?</h3>
             <p>Check out my GitHub profile for more projects and contributions to open source.</p>
             <a 
-              href="https://github.com/Deepanshu" 
+              href="https://github.com/VermaDeepanshu?tab=repositories" 
               className="btn btn-primary"
               target="_blank"
               rel="noopener noreferrer"

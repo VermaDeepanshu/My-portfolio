@@ -158,11 +158,11 @@ const Hero = () => {
                 <span className="stat-label">CGPA</span>
               </div>
               <div className="stat">
-                <span className="stat-number">5+</span>
+                <span className="stat-number">4+</span>
                 <span className="stat-label">Projects</span>
               </div>
               <div className="stat">
-                <span className="stat-number">2024</span>
+                <span className="stat-number">2027</span>
                 <span className="stat-label">Graduate</span>
               </div>
             </motion.div>
